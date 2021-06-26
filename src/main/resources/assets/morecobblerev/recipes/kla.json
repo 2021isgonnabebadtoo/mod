@@ -1,0 +1,30 @@
+{
+  "group": "morecobblerev",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "morecobblerev:reinfocedcobble"
+    },
+    "1": {
+      "item": "minecraft:lava_bucket"
+    },
+    "2": {
+      "item": "morecobblerev:reinfocedcobble"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "morecobblerev:reinpick2",
+    "count": 1
+  }
+}

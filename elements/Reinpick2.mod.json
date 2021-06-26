@@ -1,0 +1,30 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "aaaaa",
+    "customModelName": "Normal",
+    "name": "Reinforced item-deleting stone pickaxe",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 5,
+    "efficiency": 8.0,
+    "attackSpeed": 1.0,
+    "enchantability": 10,
+    "damageVsEntity": 4.0,
+    "usageCount": 3000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Reinfocedcobble"
+      }
+    ],
+    "onRightClickedInAir": {
+      "name": "AfsfRightClickedInAir"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "morecobblerev",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "morecobblerev:reinforcedcobble"
+    },
+    "1": {
+      "item": "morecobblerev:reinforcedcobble"
+    },
+    "2": {
+      "item": "morecobblerev:reinforcedcobble"
+    },
+    "3": {
+      "item": "morecobblerev:reinforcedcobble"
+    },
+    "4": {
+      "item": "morecobblerev:reinforcedcobble"
+    },
+    "5": {
+      "item": "morecobblerev:reinforcedcobble"
+    },
+    "6": {
+      "item": "morecobblerev:reinforcedcobble"
+    },
+    "7": {
+      "item": "morecobblerev:reinforcedcobble"
+    },
+    "8": {
+      "item": "morecobblerev:reinforcedcobble"
+    }
+  },
+  "result": {
+    "item": "morecobblerev:reinfocedcobble",
+    "count": 1
+  }
+}

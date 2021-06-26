@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.STRING"
+      },
+      {
+        "value": "Items.SLIME_BALL"
+      },
+      {
+        "value": "Items.STRING"
+      },
+      {
+        "value": "Items.STRING"
+      },
+      {
+        "value": "Blocks.TNT"
+      },
+      {
+        "value": "Items.STRING"
+      },
+      {
+        "value": "Items.STRING"
+      },
+      {
+        "value": "Items.STRING"
+      },
+      {
+        "value": "Items.STRING"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Bow1"
+    },
+    "name": "bow1recipe",
+    "namespace": "mod"
+  }
+}

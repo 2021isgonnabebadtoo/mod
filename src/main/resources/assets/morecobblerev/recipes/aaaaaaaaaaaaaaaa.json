@@ -1,0 +1,19 @@
+{
+  "group": "morecobblerev",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "morecobblerev:reinfocedcobble"
+    },
+    {
+      "item": "morecobblerev:reinfocedcobble"
+    },
+    {
+      "item": "morecobblerev:reinfocedcobble"
+    }
+  ],
+  "result": {
+    "item": "morecobblerev:aaaaaaaaaaaaa",
+    "count": 1
+  }
+}

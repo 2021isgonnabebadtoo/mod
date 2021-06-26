@@ -1,0 +1,42 @@
+{
+  "group": "morecobblerev",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:string"
+    },
+    "1": {
+      "item": "minecraft:iron_ingot"
+    },
+    "2": {
+      "item": "minecraft:string"
+    },
+    "3": {
+      "item": "minecraft:wooden_button"
+    },
+    "4": {
+      "item": "minecraft:flint"
+    },
+    "5": {
+      "item": "minecraft:wooden_button"
+    },
+    "6": {
+      "item": "minecraft:string"
+    },
+    "7": {
+      "item": "minecraft:wooden_button"
+    },
+    "8": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "morecobblerev:klaa",
+    "count": 1
+  }
+}

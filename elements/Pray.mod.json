@@ -1,0 +1,26 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "Detonar",
+          "onClick": {
+            "name": "P"
+          },
+          "width": 280,
+          "height": 40,
+          "name": "Detonar",
+          "x": 282,
+          "y": 113
+        }
+      }
+    ]
+  }
+}

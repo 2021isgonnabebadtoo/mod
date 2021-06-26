@@ -1,0 +1,44 @@
+{
+  "_fv": 6,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "test",
+    "customModelName": "Normal",
+    "name": "Throwable tnt",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:Bow1"
+    },
+    "shootConstantly": false,
+    "usageCount": 1,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 2.0,
+    "bulletDamage": 12.0,
+    "bulletKnockback": 2,
+    "bulletParticles": true,
+    "bulletIgnitesFire": true,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Bow1"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsBlock": {
+      "name": "Bow1BulletHitsBlock"
+    },
+    "onBulletHitsPlayer": {
+      "name": "Bow1BulletHitsBlock"
+    },
+    "onBulletHitsEntity": {
+      "name": "Bow1BulletHitsBlock"
+    }
+  }
+}

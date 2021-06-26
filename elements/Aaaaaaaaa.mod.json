@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.STRING"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "Items.STRING"
+      },
+      {
+        "value": "Blocks.WOODEN_BUTTON"
+      },
+      {
+        "value": "Items.FLINT"
+      },
+      {
+        "value": "Blocks.WOODEN_BUTTON"
+      },
+      {
+        "value": "Items.STRING"
+      },
+      {
+        "value": "Blocks.WOODEN_BUTTON"
+      },
+      {
+        "value": "Items.STRING"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Klaa"
+    },
+    "name": "aaaaaaaaa",
+    "namespace": "mod"
+  }
+}

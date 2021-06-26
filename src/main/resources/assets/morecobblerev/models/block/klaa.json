@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "morecobblerev:blocks/aaa",
+    "up": "morecobblerev:blocks/aaa",
+    "north": "morecobblerev:blocks/aaa",
+    "east": "morecobblerev:blocks/aaa",
+    "south": "morecobblerev:blocks/aaa",
+    "west": "morecobblerev:blocks/aaa",
+    "particle": "morecobblerev:blocks/aaa"
+  }
+}
