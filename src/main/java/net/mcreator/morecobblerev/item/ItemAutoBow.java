@@ -67,7 +67,7 @@ public class ItemAutoBow extends ElementsMoreCobblerev.ModElement {
 	public static class RangedItem extends Item {
 		public RangedItem() {
 			super();
-			setMaxDamage(640);
+			setMaxDamage(320);
 			setFull3D();
 			setUnlocalizedName("autobow");
 			setRegistryName("autobow");
@@ -91,7 +91,7 @@ public class ItemAutoBow extends ElementsMoreCobblerev.ModElement {
 				}
 				if (entity.capabilities.isCreativeMode || EnchantmentHelper.getEnchantmentLevel(Enchantments.INFINITY, itemstack) > 0
 						|| slotID != -1) {
-					float power = 9f;
+					float power = 1.5f;
 					EntityArrowCustom entityarrow = new EntityArrowCustom(world, entity);
 					entityarrow.shoot(entity.getLookVec().x, entity.getLookVec().y, entity.getLookVec().z, power * 2, 0);
 					entityarrow.setSilent(true);

@@ -14,14 +14,14 @@
       "value": "Items.ARROW"
     },
     "shootConstantly": true,
-    "usageCount": 640,
+    "usageCount": 320,
     "actionSound": {
       "value": "entity.arrow.shoot"
     },
     "hasGlow": false,
     "enableMeleeDamage": false,
     "damageVsEntity": 4.0,
-    "bulletPower": 9.0,
+    "bulletPower": 1.5,
     "bulletDamage": 8.0,
     "bulletKnockback": 1,
     "bulletParticles": true,
