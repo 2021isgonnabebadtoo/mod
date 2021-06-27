@@ -1,7 +1,7 @@
 {
   "id_map": {
-    "ENTITY": 3,
-    "GUI": 2
+    "GUI": 2,
+    "ENTITY": 4
   },
   "mod_elements": [
     {
@@ -343,6 +343,24 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "AutoBow",
+      "type": "gun",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 4
+      }
+    },
+    {
+      "name": "AutoBowRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -350,6 +368,7 @@
   "language_map": {
     "en_us": {
       "item.aaaaaaaaaaaaa.name": "Aaaaaaaaaaaaa",
+      "item.autobow.name": "Auto Bow",
       "tile.reinfocedcobble.name": "Re-Reinfoced cobblestone",
       "item.bow1.name": "Throwable tnt",
       "tile.reinforcedcobble.name": "Reinforced cobblestone",
